@@ -1,1 +1,2 @@
-console.log('alguma coisa aqui') 
+console.log('alguma coisa aqui')
+import
